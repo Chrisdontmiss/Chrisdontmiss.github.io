@@ -3,8 +3,8 @@ items = {
 	"cursor":{
 		"name": "Cursor",
 		"base_cost": 10,
-		"gps": 0.2,
-		"gpslist": [0.2],
+		"gps": 99999992,
+		"gpslist": [99999992],
 		"count": 0
 	},
 	
